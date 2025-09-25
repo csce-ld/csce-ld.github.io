@@ -25,34 +25,22 @@ h2 {
 .about {
     width: 60%;
     margin: auto;
-    border-left: 4px solid;
-    padding: 0.5px 0px 0.5px 25px;
-    background-color: lightblue;
 }
 
 /* Skills Section */
 .skills {
     width: 60%;
     margin: auto;
-    border-left: 4px solid;
-    padding: 0.5px 0px 0.5px 25px;
-    background-color: lightblue;
 }
 
 /* Projects Section */
 .projects {
     width: 60%;
     margin: auto;
-    border-left: 4px solid;
-    padding: 0.5px 0px 0.5px 25px;
-    background-color: lightblue;
 }
 
 /* Contact Section */
 .contact {
     width: 60%;
     margin: auto;
-    border-left: 4px solid;
-    padding: 0.5px 0px 0.5px 25px;
-    background-color: lightblue;
 }
