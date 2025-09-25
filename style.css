@@ -5,6 +5,7 @@ body {
     font-family: 'Lato', sans-serif;
     line-height: 200%;
     width: 80%;
+    text-align: justify;
 }
 
 /* Header Styling */
