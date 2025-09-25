@@ -47,8 +47,8 @@ h2 {
     padding-bottom: 5px;
 }
 
-/* About + Skills Box */
-.aboutSkills {
+/* Fix Later */
+.parallel {
     width: 60%;
     margin: auto;
     margin-bottom: auto;
@@ -58,12 +58,18 @@ h2 {
     margin-bottom: -10px;
 }
 
-.aboutSkills .box img {
+.parallel .box img {
     float:right; 
     margin-left:30px;
     max-width: 250px;
     height:auto;
     margin-top: 30px;
+}
+
+.about {
+}
+
+.skills {
 }
 
 /* Projects Section */
