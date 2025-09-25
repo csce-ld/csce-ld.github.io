@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Body Styling */
+body {
+    font-family: 'Lato', sans-serif;
+    line-height: 200%;
+}
+
+/* Header Styling */
+h1 {
+    font-family: 'Noto Serif', serif;
+    margin-bottom: -10px;
+}
+
+h2 {
+    font-family: 'Noto Serif', serif;
+    margin-bottom: -10px;
+}
+
+/* About Section */
+.about {
+    margin-left: 20px;
+}
+
+
+/* Skills Section */
+.skills {
+    margin-left: 20px;
+}
+
+/* Projects Section */
+.projects {
+    margin-left: 20px;
+}
+
+/* Contact Section */
+.contact {
+    margin-left: 20px;
+}
+
