@@ -25,9 +25,14 @@ body {
 /* Header Styling */
 .headerWrap {
     border: 4px double white;
-    display: inline;
-    padding: 7px 25px 7px 25px;
-    background-color: #000;
+background-color: #000;
+  display: inline-block;
+  margin-top: 70px;
+  margin-bottom: 40px;
+  padding: 6px 50px;
+  line-height: 0;
+  border-top: 4px double white;
+}
 }
 
 h1 {
@@ -41,28 +46,34 @@ h1 {
 h2 {
     font-family: 'Noto Serif', serif;
     margin-bottom: -10px;
+    border-bottom: 2px double white;
+    padding-bottom: 5px;
 }
 
 /* About Section */
 .about {
     width: 60%;
     margin: auto;
+    text-align: justify;
 }
 
 /* Skills Section */
 .skills {
     width: 60%;
     margin: auto;
+    text-align: justify;
 }
 
 /* Projects Section */
 .projects {
     width: 60%;
     margin: auto;
+    text-align: justify;
 }
 
 /* Contact Section */
 .contact {
     width: 60%;
     margin: auto;
+    text-align: justify;
 }
