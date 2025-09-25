@@ -47,18 +47,15 @@ h2 {
     padding-bottom: 5px;
 }
 
-/* About Section */
-.about {
+/* About + Skills Box */
+.about-skills {
     width: 60%;
     margin: auto;
+    margin-bottom: auto;
     text-align: justify;
-}
-
-/* Skills Section */
-.skills {
-    width: 60%;
-    margin: auto;
-    text-align: justify;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: -10px;
 }
 
 /* Projects Section */
