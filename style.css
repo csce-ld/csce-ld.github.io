@@ -26,7 +26,8 @@ h2 {
     width: 60%;
     margin: auto;
     border-left: 4px solid;
-    padding-left: 25px;
+    padding: 0.5px 0px 0.5px 25px;
+    background-color: lightblue;
 }
 
 /* Skills Section */
@@ -34,7 +35,8 @@ h2 {
     width: 60%;
     margin: auto;
     border-left: 4px solid;
-    padding-left: 25px;
+    padding: 0.5px 0px 0.5px 25px;
+    background-color: lightblue;
 }
 
 /* Projects Section */
@@ -42,7 +44,8 @@ h2 {
     width: 60%;
     margin: auto;
     border-left: 4px solid;
-    padding-left: 25px;
+    padding: 0.5px 0px 0.5px 25px;
+    background-color: lightblue;
 }
 
 /* Contact Section */
@@ -50,5 +53,6 @@ h2 {
     width: 60%;
     margin: auto;
     border-left: 4px solid;
-    padding-left: 25px;
+    padding: 0.5px 0px 0.5px 25px;
+    background-color: lightblue;
 }
