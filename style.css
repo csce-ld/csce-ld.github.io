@@ -23,6 +23,13 @@ container {
 }
 
 /* Header Styling */
+h1-wrap {
+    border: 4px double white;
+    display: inline;
+    padding: 7px 25px 7px 25px;
+    background-color: #000;
+}
+
 h1 {
     margin-top: 70px;
     margin-bottom: 60px;
