@@ -61,7 +61,7 @@ h2 {
 .aboutSkills .box img {
     float:right; 
     margin-left:30px;
-    max-width: 38.1vh;
+    max-width: 250px;
     height:auto;
     margin-top: 30px;
 }
