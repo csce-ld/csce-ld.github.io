@@ -4,6 +4,7 @@
 body {
     font-family: 'Lato', sans-serif;
     line-height: 200%;
+    width: 80%;
 }
 
 /* Header Styling */
@@ -19,22 +20,25 @@ h2 {
 
 /* About Section */
 .about {
-    margin-left: 20px;
+    width: 60%;
+    margin: auto;
 }
 
 
 /* Skills Section */
 .skills {
-    margin-left: 20px;
+    width: 60%;
+    margin: auto;
 }
 
 /* Projects Section */
 .projects {
-    margin-left: 20px;
-}
+    width: 80%;
+    margin: auto;
 
 /* Contact Section */
 .contact {
-    margin-left: 20px;
+    width: 60%;
+    margin: auto;
 }
 
