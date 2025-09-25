@@ -23,7 +23,7 @@ container {
 }
 
 /* Header Styling */
-h1-wrap {
+headerWrap {
     border: 4px double white;
     display: inline;
     padding: 7px 25px 7px 25px;
