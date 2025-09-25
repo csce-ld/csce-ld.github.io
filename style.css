@@ -25,14 +25,13 @@ body {
 /* Header Styling */
 .headerWrap {
     border: 4px double white;
-background-color: #000;
-  display: inline-block;
-  margin-top: 70px;
-  margin-bottom: 40px;
-  padding: 6px 50px;
-  line-height: 0;
-  border-top: 4px double white;
-}
+    background-color: #000;
+    display: inline-block;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    padding: 6px 25px;
+    line-height: 0;
+    border-top: 4px double white;
 }
 
 h1 {
