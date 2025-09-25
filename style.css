@@ -13,6 +13,7 @@ h1 {
     font-family: 'Noto Serif', serif;
     margin-bottom: -10px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 h2 {
@@ -36,7 +37,7 @@ h2 {
 
 /* Projects Section */
 .projects {
-    width: 80%;
+    width: 60%;
     margin: auto;
 
 /* Contact Section */
