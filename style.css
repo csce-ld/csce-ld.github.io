@@ -6,6 +6,8 @@ body {
     line-height: 200%;
     width: 90%;
     text-align: justify;
+    color: #000;
+    background-color: #fff;
 }
 
 /* Header Styling */
