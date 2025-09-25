@@ -8,6 +8,8 @@ body {
     text-align: justify;
     color: #000;
     background-color: #fff;
+    margin: auto;
+    height:100%;
 }
 
 /* Header Styling */
